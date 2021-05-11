@@ -1,0 +1,23 @@
+{
+  "name": "react-hooks-testing-lib-process-bug",
+  "version": "1.0.0",
+  "repository": "git@github.com:bdwain/react-hooks-testing-lib-process-bug.git",
+  "author": "bwain <bwain@grubhub.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.1",
+    "@testing-library/react-hooks": "^5.1.2",
+    "babel-loader": "^8.2.2",
+    "karma": "^6.3.2",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1",
+    "karma-webpack": "^5.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.37.0"
+  },
+  "scripts": {
+    "test": "karma start"
+  }
+}
